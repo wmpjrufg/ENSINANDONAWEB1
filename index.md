@@ -44,9 +44,8 @@ AQUI COLOCAR FIGURA 2
 <p style='text-align: justify;'>Após a criação e disponibilização da sala de reuniões o professor poderá acessar essa sala juntamente com seus alunos e então poderá ministrar o conteúdo com a utilização de recursos de compartilhamento de tela por exemplo. Abaixo alguns conteúdos para configuração e utilização do Google Meeting.</p>
 
 <center> <iframe width="315" height="300" src="https://www.youtube.com/embed/I50qnfMSaH4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
-
-
-<iframe width="315" height="300" src="https://www.youtube.com/embed/QRyA2uaM2hA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</br>
+<center> <iframe width="315" height="300" src="https://www.youtube.com/embed/QRyA2uaM2hA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
 
 
 
