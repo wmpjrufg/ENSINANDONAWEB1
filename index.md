@@ -7,7 +7,7 @@
 
 <p style='text-align: justify;'>Para você que ainda não usou o livro virtual do sistema GITHUB.IO perceberá que os <i>links</i> estão sublinhados e são clicáveis, dessa forma você usuário poderá ter acesso ao conteúdo <i>online</i>.</p>
 
-<p style='text-align: justify;'>Nesse conteúdo <i>online</i> você inscrito no curso poderá ter mais detalhes sobre as ferramentas informadas pelo professor ministrante seguindo essa sequências de instruções ofericadas nesse repositório.</p>
+<p style='text-align: justify;'>Nesse conteúdo <i>online</i> você inscrito no curso poderá ter mais detalhes sobre as ferramentas informadas pelo professor ministrante seguindo essa sequências de instruções ofericadas nesse repositório. O livro aborda uma série de explicações e vídeos compilados de outros autores para que esse funcione como um tutorial do pacote G-SUITE.</p>
 
 #### Criação do e-mail institucional ou uso de uma conta GOOGLE
 
