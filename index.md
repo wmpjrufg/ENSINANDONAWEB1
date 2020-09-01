@@ -47,5 +47,19 @@ AQUI COLOCAR FIGURA 2
 
 <center> <iframe width="315" height="300" src="https://www.youtube.com/embed/QRyA2uaM2hA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
 
+<p style='text-align: justify;'>Antes de utilizar o Google Meeting não se esqueça de testar microfone e câmera conforme recomendação dos vídeos para que no momento da aula você não seja pego de surpresa.</p>
+
+### Um pouco sobre o modelo de apresentação em Power Point
+
+<p style='text-align: justify;'>Para aqueles que vão utilizar o Microsoft Power Point para apresentação vão algumas dicas para elaboração dos slides:.</p>
+
+1. Para um melhor aproveitamento do espaço em tela utilize o tamanho de slide _Widescreen (16:9)_ (aba _Design_) pois esse modelo permite a utilziação maximizada em celulares e _tablets_;
+2. A apresentação não pode ser muito carregada isso poderá deixar o discente "perdido" no momento da exposição;
+3. Em caso de uso de vídeos na apresentação e para evitar a necessidade configurações extras no Google Meeting recomendamos a colocação de um **QR CODE** na apresentação para que os discentes possam acessar o vídeo. [Clique aqui para aprender a criar um **QR CODE**](https://www.youtube.com/watch?v=SU_KShidRmU) de forma gratuita;
+4. A combinações de cores é muito importante no recurso da apresentação portanto sugerimos a utilização de [padrões de cores com a ferramenta _adobe color_](https://www.youtube.com/watch?v=s4uB7TeucRY);
+5. Caso necessite figuras ou imagens diversos sites disponibilizam isso de forma gratuita como por exemplo: [Flaticon](https://www.flaticon.com), [Unplash](https://unsplash.com) e o site [Freepik](https://br.freepik.com). Não se esqueça de referenciar.
+
+
+
 
 
