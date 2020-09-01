@@ -3,7 +3,7 @@
 1. Ministrante: [Profa. Sylvia Regina Mesquita de Almeida](http://lattes.cnpq.br/1855764480221018)  
 2. Apoio: [Profa. Wanderlei Malaquias Pereira Junior](http://lattes.cnpq.br/2268506213083114) e [Luiz Rodrigues Niz](https://www.linkedin.com/in/luiz-rodrigues-niz-917828119/)
 
-<p style='text-align: justify;'>Você se inscreveu no Minicurso <b>Ensino <i>online</i> e o Pacote <b>G-SUITE</b>. Esse minicurso tem como objetivo apresentar as possibilidades do pacote da GOOGLE para utilização no ensino remoto. Antes de começarmos recomendamos que você instale o navegador <a href="https://www.google.com/intl/pt-BR/chrome/">Google Chrome </a>.</p>
+<p style='text-align: justify;'>Você se inscreveu no Minicurso <b>Ensino <i>online</i> e o Pacote G-SUITE</b>. Esse minicurso tem como objetivo apresentar as possibilidades do pacote da GOOGLE para utilização no ensino remoto. Antes de começarmos recomendamos que você instale o navegador <a href="https://www.google.com/intl/pt-BR/chrome/">Google Chrome </a>.</p>
 
 <p style='text-align: justify;'>Para você que ainda não usou o conteúdo virtual do sistema GITHUB.IO perceberá que os <i>links</i> estão sublinhados e são clicáveis, dessa forma você usuário poderá ter acesso ao conteúdo <i>online</i>.</p>
 
