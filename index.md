@@ -9,7 +9,7 @@
 
 <p style='text-align: justify;'>Nesse conteúdo <i>online</i> você inscrito no curso poderá ter mais detalhes sobre as ferramentas informadas pelo professor ministrante seguindo essa sequências de instruções ofericadas nesse repositório. O livro aborda uma série de explicações e vídeos compilados de outros autores para que esse funcione como um tutorial do pacote G-SUITE.</p>
 
-#### Criação do e-mail institucional ou uso de uma conta GOOGLE
+### Criação do e-mail institucional ou uso de uma conta GOOGLE
 
 <p style='text-align: justify;'>Para o uso de todas as ferramentas do Pacote G-SUITE</b> é necessário que esteja sendo utilizando um login da Google, ou seja, um login com extensão <code>@gmail.com</code>. Para criar um login Google acesse o site de <a href="https://www.google.com/intl/pt-BR/chrome/">criação do gmail</a>. A outra opção é usar o e-mail institucional que contenha o pacote G-SUITE.</p>
 
@@ -17,7 +17,7 @@
 
 <center> <iframe width="315" height="300" src="https://www.youtube.com/embed/POVPrCkhUgQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
 
-#### Uso do calendário do pacote G-SUITE
+### Uso do calendário do pacote G-SUITE
 
 <p style='text-align: justify;'>O uso do calendário é fundamental para agendar as aulas com os discentes usando o pacote G-SUITE, pelo calendário você poderá avisar os discentes do horário da aula criando lembretes automáticos conforme a Figura abaixo:</p>
 
@@ -35,7 +35,7 @@ AQUI COLOCAR FIGURA 2
           
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OE7Hrt0tAew" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### Uso do Google Meeting do pacote G-SUITE
+### Uso do Google Meeting do pacote G-SUITE
 
 <p style='text-align: justify;'>O Google Meeting é o ambiente de reunião remota da Google. Nesse ambiente poderão ser ministradas as aulas síncronas. Normalmente essa sala é criada no calendário do administrador da sala e dos participantes conforme mostrado no item anteiror. O link da sala é um caminhado que poderá ser digitado no navegador (recomendado o uso do Google Chrome. O modelo do link segue o seguinte formato: <code>https://meet.google.com/knh-mvsa-ajd</code>. O sistema para criação de reuniões mostrado anteriormente é o sistema de reunião planejada onde as pessoas convidadas já tem permissão direta para entrada na sala. Também é possível a criação de reuniões diretamente pelo Google Meeting conforme vídeo mostrado abaixo:</p>
 
