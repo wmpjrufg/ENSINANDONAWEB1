@@ -21,7 +21,7 @@
 
 <p style='text-align: justify;'>O uso do calendário é fundamental para agendar as aulas com os discentes usando o pacote G-SUITE, pelo calendário você poderá avisar os discentes do horário da aula criando lembretes automáticos conforme a Figura abaixo:</p>
 
-AQUI COLOCAR FIGURA 1
+<img src="01.jpg">
 
 <p style='text-align: justify;'>Para mostrar um pouco de como essa ferramenta funciona segue o vídeo:</p>
 
