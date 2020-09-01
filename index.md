@@ -33,7 +33,7 @@ AQUI COLOCAR FIGURA 2
 
 <p style='text-align: justify;'>Para quem deseja saber como usar a ferramenta <i>aTube Catcher</i> na gravação da aula poderá ver o conteúdo abaixo:</p>
           
-<center> <iframe width="560" height="315" src="https://www.youtube.com/embed/OE7Hrt0tAew" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
+<center> <iframe width="315" height="300" src="https://www.youtube.com/embed/OE7Hrt0tAew" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
 
 ### Uso do Google Meeting do pacote G-SUITE
 
