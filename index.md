@@ -27,10 +27,17 @@ AQUI COLOCAR FIGURA 1
 
 <center> <iframe width="315" height="300" src="https://www.youtube.com/embed/bKeqCNvftTI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
 
-<p style='text-align: justify;'>Em caso de utilização de outra plataforma de gravação como por exemplo o software freeware <a href="https://atube-catcher.br.uptodown.com/windows">aTube Catcher</a> o vídeo da gravação poderá ser anexado na reunião do calendário e portanto essa gravação ficará disponível para que os discentes tenham acesso, vejam na Figura abaixo:
+<p style='text-align: justify;'>Em caso de utilização de outra plataforma de gravação como por exemplo o software freeware <a href="https://atube-catcher.br.uptodown.com/windows"><i>aTube Catcher</i></a> o vídeo da gravação poderá ser anexado na reunião do calendário e portanto essa gravação ficará disponível para que os discentes tenham acesso, vejam na Figura abaixo:</p>
 
-AQUI COLOCAR FIGURA 2
+AQUI COLOCAR FIGURA 2  
 
+<p style='text-align: justify;Para quem deseja saber como usar a ferramenta <i>aTube Catcher</i> na gravação da aula poderá ver o conteúdo abaixo:</p>
+          
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OE7Hrt0tAew" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Uso do Google Meeting do pacote G-SUITE
+
+<p style='text-align: justify;'>O Google Meeting é o ambiente de reunião remota da Google. Nesse ambiente poderão ser ministradas as aulas síncronas. Normalmente essa sala é criada no calendário do administrador da sala e dos participantes conforme mostrado no item anteiror. O link da sala é um caminhado que poderá ser digitado no navegador (recomendado o uso do Google Chrome. O modelo do link segue o seguinte formato: <code>https://meet.google.com/knh-mvsa-ajd</code>. </p>
 
 
 
