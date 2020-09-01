@@ -37,9 +37,16 @@ AQUI COLOCAR FIGURA 2
 
 #### Uso do Google Meeting do pacote G-SUITE
 
-<p style='text-align: justify;'>O Google Meeting é o ambiente de reunião remota da Google. Nesse ambiente poderão ser ministradas as aulas síncronas. Normalmente essa sala é criada no calendário do administrador da sala e dos participantes conforme mostrado no item anteiror. O link da sala é um caminhado que poderá ser digitado no navegador (recomendado o uso do Google Chrome. O modelo do link segue o seguinte formato: <code>https://meet.google.com/knh-mvsa-ajd</code>. </p>
+<p style='text-align: justify;'>O Google Meeting é o ambiente de reunião remota da Google. Nesse ambiente poderão ser ministradas as aulas síncronas. Normalmente essa sala é criada no calendário do administrador da sala e dos participantes conforme mostrado no item anteiror. O link da sala é um caminhado que poderá ser digitado no navegador (recomendado o uso do Google Chrome. O modelo do link segue o seguinte formato: <code>https://meet.google.com/knh-mvsa-ajd</code>. O sistema para criação de reuniões mostrado anteriormente é o sistema de reunião planejada onde as pessoas convidadas já tem permissão direta para entrada na sala. Também é possível a criação de reuniões diretamente pelo Google Meeting conforme vídeo mostrado abaixo:</p>
+
+<iframe width="315" height="300" src="https://www.youtube.com/embed/gW-ncVx3G8I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p style='text-align: justify;'>Após a criação e disponibilização da sala de reuniões o professor poderá acessar essa sala juntamente com seus alunos e então poderá ministrar o conteúdo com a utilização de recursos de compartilhamento de tela por exemplo. Abaixo alguns conteúdos para configuração e utilização do Google Meeting.</p>
+
+<iframe width="315" height="300" src="https://www.youtube.com/embed/I50qnfMSaH4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+<iframe width="315" height="300" src="https://www.youtube.com/embed/QRyA2uaM2hA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
