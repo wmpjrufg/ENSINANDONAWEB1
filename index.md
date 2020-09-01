@@ -9,4 +9,9 @@
 
 <p style='text-align: justify;'>Nesse conteúdo <i>online</i> você inscrito no curso poderá ter mais detalhes sobre as ferramentas informadas pelo professor ministrante seguindo essa sequências de instruções ofericadas nesse repositório.</p>
 
+#### Criação do e-mail institucional ou uso de uma conta GOOGLE
+
+<p style='text-align: justify;'>Para o uso de todas as ferramentas do Pacote G-SUITE</b> é necessário que esteja sendo utilziado um login da Google, ou seja, um login com extensão <FONT COLOR="#rrggbb"><i>@gmail.com</i>/FONT>.</p>
+
+
 
