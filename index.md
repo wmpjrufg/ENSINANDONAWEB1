@@ -1,7 +1,7 @@
 # Ensino _online_ e o Pacote **G-SUITE**
 
 1. Ministrante: [Profa. Sylvia Regina Mesquita de Almeida](http://lattes.cnpq.br/1855764480221018)  
-2. Apoio: [Profa. Wanderlei Malaquias Pereira Junior]( http://lattes.cnpq.br/2268506213083114) e Luiz Rodrigues Niz
+2. Apoio: [Profa. Wanderlei Malaquias Pereira Junior]( http://lattes.cnpq.br/2268506213083114) e [Luiz Rodrigues Niz](https://www.linkedin.com/in/luiz-rodrigues-niz-917828119/)
 
 <p style='text-align: justify;'>Você se inscreveu no Minicurso <b>Ensino <i>online</i> e o Pacote G-SUITE</b> e este material é o livro online do minicurso. Esse minicurso tem como apresentar as possibilidades do pacote da GOOGLE para utilização no ensino remoto. Antes de começarmos recomendamos que você instale o navegador <a href="https://www.google.com/intl/pt-BR/chrome/">Google Chrome </a>.</p>
 
@@ -15,7 +15,7 @@
 
 <p style='text-align: justify;'>A mesma situação também ocorre para os alunos. Eles também devem acessar todo o conteúdo via login gmail ou login institucional que tenha o pacote G-SUITE. Veja abaixo um discente poderá criar o e-mail institucional na Universidade Federal de Goiás (UFG).</p>
 
-<center> <iframe width="315" height="300" src="https://www.youtube.com/embed/POVPrCkhUgQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
+<center> <iframe width="400" height="200" src="https://www.youtube.com/embed/POVPrCkhUgQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
 
 ### Uso do calendário do pacote G-SUITE
 
