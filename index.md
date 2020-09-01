@@ -1,35 +1,12 @@
-Você se inscreveu no Minicurso <p align=”Justify”><b>Ensino <i>online</i> e o Pacote G-SUITE</b> e este material é o livro online do minicurso. Esse minicurso tem como apresentar as possibilidades do pacote da GOOGLE para utilização no ensino remoto. Antes de começarmos recomendamos que você instale o navegador <a href="https://www.google.com/intl/pt-BR/chrome/">Google Chrome</a>.</p>
+### Ensino _online_ e o Pacote **G-SUITE**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Ministrante: [Profa. Sylvia Regina Mesquita de Almeida](http://lattes.cnpq.br/1855764480221018)
+2. Apoio: [Profa. Wanderlei Malaquias Pereira Junior]( http://lattes.cnpq.br/2268506213083114)
 
-### Markdown
+<p align=”Justify”>Você se inscreveu no Minicurso <b>Ensino <i>online</i> e o Pacote G-SUITE</b> e este material é o livro online do minicurso. Esse minicurso tem como apresentar as possibilidades do pacote da GOOGLE para utilização no ensino remoto. Antes de começarmos recomendamos que você instale o navegador <a href="https://www.google.com/intl/pt-BR/chrome/">Google Chrome </a>.</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p align=”Justify”>Para você que ainda não usou o livro virtual do sistema GITHUB.IO perceberá que os <i>links</i></p> estão sublinhados e são clicáveis, dessa forma você usuário poderá ter acesso ao conteúdo <i>online</i>.</p>
 
-```markdown
-Syntax highlighted code block
+<p align=”Justify”></p>Nesse conteúdo <i>online</i> você inscrito no curso poderá ter mais detalhes sobre as ferramentas informadas pelo professor ministrante seguindo essa sequências de instruções ofericadas nesse repositório.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wmpjrufg/ENSINANDONAWEB1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
