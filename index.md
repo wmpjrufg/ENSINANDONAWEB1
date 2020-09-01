@@ -7,6 +7,6 @@
 
 <p align=”Justify”>Para você que ainda não usou o livro virtual do sistema GITHUB.IO perceberá que os <i>links</i></p> estão sublinhados e são clicáveis, dessa forma você usuário poderá ter acesso ao conteúdo <i>online</i>.</p>
 
-<p align=”Justify”></p>Nesse conteúdo <i>online</i> você inscrito no curso poderá ter mais detalhes sobre as ferramentas informadas pelo professor ministrante seguindo essa sequências de instruções ofericadas nesse repositório.</p>
+<p align=”Justify”>Nesse conteúdo <i>online</i> você inscrito no curso poderá ter mais detalhes sobre as ferramentas informadas pelo professor ministrante seguindo essa sequências de instruções ofericadas nesse repositório.</p>
 
 
