@@ -11,7 +11,7 @@
 
 #### Criação do e-mail institucional ou uso de uma conta GOOGLE
 
-<p style='text-align: justify;'>Para o uso de todas as ferramentas do Pacote G-SUITE</b> é necessário que esteja sendo utilizando um login da Google, ou seja, um login com extensão <code>@gmail.com</code>. Para criar um login com esse tipo acesse o site de <ahref="https://www.google.com/intl/pt-BR/chrome/">criação do gmail</a>.</p>
+<p style='text-align: justify;'>Para o uso de todas as ferramentas do Pacote G-SUITE</b> é necessário que esteja sendo utilizando um login da Google, ou seja, um login com extensão <code>@gmail.com</code>. Para criar um login com esse tipo acesse o site de <a href="https://www.google.com/intl/pt-BR/chrome/">criação do gmail</a>.</p>
 
 `backticks`
 
