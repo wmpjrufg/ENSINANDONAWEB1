@@ -1,6 +1,4 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/wmpjrufg/ENSINANDONAWEB1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Você se inscreveu no Minicurso <p align=”Justify”><b>Ensino <i>online</i> e o Pacote G-SUITE</b> e este material é o livro online do minicurso. Esse minicurso tem como apresentar as possibilidades do pacote da GOOGLE para utilização no ensino remoto. Antes de começarmos recomendamos que você instale o navegador <a href="https://www.google.com/intl/pt-BR/chrome/">Google Chrome</a>.</p>
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
