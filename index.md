@@ -72,11 +72,11 @@ Teste
 ```
 [1] Canal UFG Oficial, Tutorial para criação de login único e e-mail institucional da UFG. Youtube. Disponível em: <https://www.youtube.com/watch?time_continue=56&v=1himTC7BNTE&feature=emb_title>. Acesso em: 01 de set. 2020. 01:43
 
-[2] MACIEL, W. Canal GetEdu, Google Agenda como criar eventos. Youtube. Disponível em: <https://www.youtube.com/embed/bKeqCNvftTI>. Acesso em: 01 de set. 2020. 07:57
+[2] Maciel, W. Canal GetEdu, Google Agenda como criar eventos. Youtube. Disponível em: <https://www.youtube.com/embed/bKeqCNvftTI>. Acesso em: 01 de set. 2020. 07:57
 
 [3] Canal EducaTICs, Como gravar a tela do computador com aTube Catcher?. Youtube. Disponível em: <https://www.youtube.com/watch?v=OE7Hrt0tAew&feature=emb_title>. Acesso em: 01 de set. 2020. 11:23
 
-[4] FERREIRA, A. L. R. Canal Instituto de Educação e Pesquisa em Práticas Pedagógicas (IEP3) da Unesp, Tutorial Básico Google Meet. Youtube. Disponível em: <https://www.youtube.com/watch?v=gW-ncVx3G8I&feature=emb_title>. Acesso em: 01 de set. 2020. 05:31
+[4] Ferreira, A. L. R. Canal Instituto de Educação e Pesquisa em Práticas Pedagógicas (IEP3) da Unesp, Tutorial Básico Google Meet. Youtube. Disponível em: <https://www.youtube.com/watch?v=gW-ncVx3G8I&feature=emb_title>. Acesso em: 01 de set. 2020. 05:31
 
 [5] Canal Curso Rápido, Como usar GOOGLE MEET – Videoconferência, Reuniões e Aulas. Passo a Passo. Youtube. Disponível em: <https://www.youtube.com/watch?v=I50qnfMSaH4&feature=emb_title>. Acesso em: 01 de set. 2020. 16:06
 
