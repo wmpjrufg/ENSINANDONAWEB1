@@ -15,9 +15,12 @@
 
 <p style='text-align: justify;'>A mesma situação também ocorre para os alunos. Eles também devem acessar todo o conteúdo via login gmail ou login institucional que tenha o pacote G-SUITE. Veja abaixo um discente poderá criar o e-mail institucional na Universidade Federal de Goiás (UFG).</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/POVPrCkhUgQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center> <iframe width="315" height="315" src="https://www.youtube.com/embed/POVPrCkhUgQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
 
-#### Uso d
+#### Uso do calendário do pacote G-SUITE
+
+<p style='text-align: justify;'>O uso do calendário é fundamental para agendar as aulas com os discentes usando o pacote G-SUITE, pelo calendário vcê poderá avisar os discentes do horário da aula criando lembretes automáticos
+
 `backticks`
 
 
