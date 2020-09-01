@@ -15,7 +15,7 @@
 
 <p style='text-align: justify;'>A mesma situação também ocorre para os alunos. Eles também devem acessar todo o conteúdo via login gmail ou login institucional que tenha o pacote G-SUITE. Veja abaixo um discente poderá criar o e-mail institucional na Universidade Federal de Goiás (UFG).</p>
 
-<center> <iframe width="400" height="200" src="https://www.youtube.com/embed/POVPrCkhUgQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
+<center> <iframe width="300" height="169" src="https://www.youtube.com/embed/POVPrCkhUgQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
 
 ### Uso do calendário do pacote G-SUITE
 
@@ -25,7 +25,7 @@ AQUI COLOCAR FIGURA 1
 
 <p style='text-align: justify;'>Para mostrar um pouco de como essa ferramenta funciona segue o vídeo:</p>
 
-<center> <iframe width="315" height="300" src="https://www.youtube.com/embed/bKeqCNvftTI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
+<center> <iframe width="300" height="169" src="https://www.youtube.com/embed/bKeqCNvftTI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
 
 <p style='text-align: justify;'>Em caso de utilização de outra plataforma de gravação como por exemplo o software freeware <a href="https://atube-catcher.br.uptodown.com/windows"><i>aTube Catcher</i></a> o vídeo da gravação poderá ser anexado na reunião do calendário e portanto essa gravação ficará disponível para que os discentes tenham acesso, vejam na Figura abaixo:</p>
 
@@ -33,19 +33,19 @@ AQUI COLOCAR FIGURA 2
 
 <p style='text-align: justify;'>Para quem deseja saber como usar a ferramenta <i>aTube Catcher</i> na gravação da aula poderá ver o conteúdo abaixo:</p>
           
-<center> <iframe width="315" height="300" src="https://www.youtube.com/embed/OE7Hrt0tAew" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
+<center> <iframe width="300" height="169" src="https://www.youtube.com/embed/OE7Hrt0tAew" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
 
 ### Uso do Google Meeting do pacote G-SUITE
 
 <p style='text-align: justify;'>O Google Meeting é o ambiente de reunião remota da Google. Nesse ambiente poderão ser ministradas as aulas síncronas. Normalmente essa sala é criada no calendário do administrador da sala e dos participantes conforme mostrado no item anteiror. O link da sala é um caminhado que poderá ser digitado no navegador (recomendado o uso do Google Chrome. O modelo do link segue o seguinte formato: <code>https://meet.google.com/knh-mvsa-ajd</code>. O sistema para criação de reuniões mostrado anteriormente é o sistema de reunião planejada onde as pessoas convidadas já tem permissão direta para entrada na sala. Também é possível a criação de reuniões diretamente pelo Google Meeting conforme vídeo mostrado abaixo:</p>
 
-<center> <iframe width="315" height="300" src="https://www.youtube.com/embed/gW-ncVx3G8I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
+<center> <iframe width="300" height="169" src="https://www.youtube.com/embed/gW-ncVx3G8I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
 
 <p style='text-align: justify;'>Após a criação e disponibilização da sala de reuniões o professor poderá acessar essa sala juntamente com seus alunos e então poderá ministrar o conteúdo com a utilização de recursos de compartilhamento de tela por exemplo. Abaixo alguns conteúdos para configuração e utilização do Google Meeting.</p>
 
-<center> <iframe width="315" height="300" src="https://www.youtube.com/embed/I50qnfMSaH4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
+<center> <iframe width="300" height="169" src="https://www.youtube.com/embed/I50qnfMSaH4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
 
-<center> <iframe width="315" height="300" src="https://www.youtube.com/embed/QRyA2uaM2hA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
+<center> <iframe width="300" height="169" src="https://www.youtube.com/embed/QRyA2uaM2hA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
 
 <p style='text-align: justify;'>Antes de utilizar o Google Meeting não se esqueça de testar microfone e câmera conforme recomendação dos vídeos para que no momento da aula você não seja pego de surpresa.</p>
 
