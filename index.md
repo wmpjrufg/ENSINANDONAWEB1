@@ -15,7 +15,7 @@
 
 <p style='text-align: justify;'>A mesma situação também ocorre para os alunos. Eles também devem acessar todo o conteúdo via login gmail ou login institucional que tenha o pacote G-SUITE. Veja abaixo um discente poderá criar o e-mail institucional na Universidade Federal de Goiás (UFG).</p>
 
-<center> <iframe width="400" height="315" src="https://www.youtube.com/embed/POVPrCkhUgQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
+<center> <iframe width="315" height="300" src="https://www.youtube.com/embed/POVPrCkhUgQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
 
 #### Uso do calendário do pacote G-SUITE
 
@@ -25,7 +25,14 @@ AQUI COLOCAR FIGURA 1
 
 <p style='text-align: justify;'>Para mostrar um pouco de como essa ferramenta funciona segue o vídeo:</p>
 
-<center> <iframe width="400" height="315" src="https://www.youtube.com/embed/bKeqCNvftTI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
+<center> <iframe width="315" height="300" src="https://www.youtube.com/embed/bKeqCNvftTI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
+
+<p style='text-align: justify;'>Em caso de utilização de outra plataforma de gravação como por exemplo o software freeware <a href="https://atube-catcher.br.uptodown.com/windows">aTube Catcher</a> o vídeo da gravação poderá ser anexado na reunião do calendário e portanto essa gravação ficará disponível para que os discentes tenham acesso, vejam na Figura abaixo:
+
+AQUI COLOCAR FIGURA 2
+
+
+
 
 
 
