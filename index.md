@@ -26,9 +26,7 @@
 
 <center> <iframe width="300" height="169" src="https://www.youtube.com/embed/bKeqCNvftTI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
 
-<p style='text-align: justify;'>Em caso de utilização de outra plataforma de gravação como por exemplo o software freeware <a href="https://atube-catcher.br.uptodown.com/windows"><i>aTube Catcher</i></a> o vídeo da gravação poderá ser anexado na reunião do calendário e portanto essa gravação ficará disponível para que os discentes tenham acesso, vejam na Figura abaixo:</p>
-
-<img src="02.png">  
+<p style='text-align: justify;'>Em caso de utilização de outra plataforma de gravação como por exemplo o software freeware <a href="https://atube-catcher.br.uptodown.com/windows"><i>aTube Catcher</i></a> o vídeo da gravação poderá ser anexado na reunião do calendário e portanto essa gravação ficará disponível para que os discentes tenham acesso.</p>
 
 <p style='text-align: justify;'>Para quem deseja saber como usar a ferramenta <i>aTube Catcher</i> na gravação da aula poderá ver o conteúdo do <code>canal EducaTICs [3]</code>.</p>
           
@@ -54,17 +52,19 @@
 
 1. Para um melhor aproveitamento do espaço em tela utilize o tamanho de slide **_Widescreen-16:9_** (aba _Design_) pois esse modelo permite a utilziação maximizada em celulares e _tablets_;
 2. A apresentação não pode ser muito carregada isso poderá deixar o discente "perdido" no momento da exposição;
-3. Em caso de uso de vídeos na apresentação e para evitar a necessidade configurações extras no Google Meeting recomendamos a colocação de um **QR CODE** na apresentação para que os discentes possam acessar o vídeo. [Clique aqui para aprender a criar um **QR CODE**](https://www.youtube.com/watch?v=SU_KShidRmU) de forma gratuita;
-4. A combinações de cores é muito importante no recurso da apresentação portanto sugerimos a utilização de [padrões de cores com a ferramenta _adobe color_](https://www.youtube.com/watch?v=s4uB7TeucRY);
-5. Caso necessite figuras ou imagens diversos sites disponibilizam isso de forma gratuita como por exemplo: [Flaticon](https://www.flaticon.com), [Unplash](https://unsplash.com) e o site [Freepik](https://br.freepik.com). Não se esqueça de referenciar todo o conteúdo.
+3. A combinações de cores é muito importante no recurso da apresentação portanto sugerimos a utilização de [padrões de cores com a ferramenta _adobe color_](https://www.youtube.com/watch?v=s4uB7TeucRY);
+4. Caso necessite figuras ou imagens diversos sites disponibilizam isso de forma gratuita como por exemplo: [Flaticon](https://www.flaticon.com), [Unplash](https://unsplash.com) e o site [Freepik](https://br.freepik.com). Não se esqueça de referenciar todo o conteúdo utilizado.
 
 ### Uso do Jamboard do pacote G-SUITE
 
-Teste
+<p style='text-align: justify;'>Para aqueles professores que desejam utilizar quadro o ideal é a o uso das telas com sensor para escrita como os celulares, <i>tablets</i> ou uma mesa digitalizadora têm. A ferramenta de quadro do pacote G-SUITE é o Jamboard. O Jamboard permite o compartilhamento de arquivos, permite a colocação de imagens no quadro e também a escrita de equações matemáticas. O canal da Priscilla Prueter [7] apresenta exemplos da criação de quadros pelo Jamboard.</p>
 
-### Uso de _adds_ do pacote G-SUITE
+### Uso do Classroom do pacote G-SUITE
 
-Teste
+<p style='text-align: justify;'>A extensão <i>Classroom</i> é o pacote que concatena todas as possibilidades citadas anteriormente. O ambiente <i>Classroom</i> permite a criação do ambiente de sala de aula, desde o <i>link</i> da sala de aula até a elaboração de atividades com pontuação.  Para uma visão geral da ferramenta segue os vídeos do <code>canal do Professus21 [8]</code>.</p>
+
+<center> <iframe width="560" height="315" src="https://www.youtube.com/embed/v_vEXrhYvoU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
+
 
 
 ### Referências
@@ -81,6 +81,10 @@ Teste
 [5] Canal Curso Rápido, Como usar GOOGLE MEET – Videoconferência, Reuniões e Aulas. Passo a Passo. Youtube. Disponível em: <https://www.youtube.com/watch?v=I50qnfMSaH4&feature=emb_title>. Acesso em: 01 de set. 2020. 16:06
 
 [6] Canal Curso Rápido, GOOGLE MEET- Como apresentar PowerPoint, Quadro Branco e Legendas. Youtube. Disponível em: <https://www.youtube.com/watch?v=QRyA2uaM2hA&feature=emb_title>. Acesso em: 01 de set. 2020. 16:06
+
+[7] Canal Priscilla Prueter, Jamboard para aulas e ensaios criativos!. Youtube. Disponível em: <https://www.youtube.com/watch?v=sbsE2dqYK9M>. Acesso em: 01 de set. 2020. 06:51
+
+[8] Silva, W. Canal Professus21, Curso Google Classroom. Youtube. Disponível em: <https://www.youtube.com/watch?v=v_vEXrhYvoU&list=PLTQMKsLxzddJY1u-ftKzQXEBu8E3ezbNH&index=1>. Acesso em: 01 de set. 2020. 08:00
 
 ```
 
