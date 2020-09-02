@@ -1,5 +1,5 @@
 <center>
-          <h1>Ensino online<br>e o<br>Pacote G Suite</h1>
+          <h1>Ensino online<br> e o <br>Pacote G Suite</h1>
 </center>
 
 <hr>
