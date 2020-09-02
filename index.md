@@ -3,15 +3,13 @@
 1. Ministrante: [Profa. Sylvia Regina Mesquita de Almeida](http://lattes.cnpq.br/1855764480221018)  
 2. Apoio: [Prof. Wanderlei Malaquias Pereira Junior](http://lattes.cnpq.br/2268506213083114) e [Luiz Rodrigues Niz](https://www.linkedin.com/in/luiz-rodrigues-niz-917828119/)
 
-<p style='text-align: justify;'>Você se inscreveu no Minicurso <b>Ensino <i>online</i> e o Pacote G-SUITE</b>. Esse minicurso tem como objetivo apresentar as possibilidades de uso do pacote G-SUITE da GOOGLE no ensino remoto. Antes de começarmos recomendamos que você instale o navegador <a href="https://www.google.com/intl/pt-BR/chrome/">Google Chrome </a>.</p>
-
-<p style='text-align: justify;'>Para você que ainda não usou o conteúdo virtual do sistema GITHUB.IO perceberá que os <i>links</i> estão sublinhados, dessa forma você usuário poderá ter acesso a outro material através desse <i>link</i>.</p>
+<p style='text-align: justify;'>Você se inscreveu no Minicurso <b>Ensino <i>online</i> e o Pacote G-SUITE</b>. Esse minicurso tem como objetivo apresentar as possibilidades de uso do pacote G-SUITE da Google no ensino remoto. Antes de começarmos recomendamos que você instale o navegador <a href="https://www.google.com/intl/pt-BR/chrome/">Google Chrome </a>.</p>
 
 <p style='text-align: justify;'>Nesse conteúdo <i>online</i> o participante poderá ter mais detalhes sobre as ferramentas informadas pelo ministrante. O material apresenta uma série de explicações e vídeos de domínio público (plataforma YouTube). As referências de todos os vídeos e imagens utilizadas estão descritos na aba de referências.</p> 
 
-### Criação do e-mail institucional ou uso de uma conta GOOGLE
+### Criação do e-mail institucional ou uso de uma conta Google
 
-<p style='text-align: justify;'>Para o uso de todas as ferramentas do Pacote G-SUITE é necessário que professores e alunos estejam utilizando um login da Google, ou seja, um login com extensão <code>@gmail.com</code>. Para criar um login desse tipo acesse o site de <a href="https://www.google.com/intl/pt-BR/chrome/"><u>criação do gmail</u></a>. A outra opção é usar o e-mail institucional que contenha o pacote G-SUITE. Um exemplo de criação do e-mail institucional é apresentado pelo <code>canal UFG Oficial [1]</code>.</p>
+<p style='text-align: justify;'>Para o uso de todas as ferramentas do Pacote G-SUITE é necessário que professores e alunos estejam utilizando um login da Google, ou seja, um login com extensão <code>@gmail.com</code>. Para criar um login desse tipo acesse o site de <a href="https://www.google.com/intl/pt-BR/chrome/">criação do gmail</a>. A outra opção é usar o e-mail institucional que contenha o pacote G-SUITE. Um exemplo de criação do e-mail institucional é apresentado pelo <code>canal UFG Oficial [1]</code>.</p>
 
 <center> <iframe width="300" height="169" src="https://www.youtube.com/embed/1himTC7BNTE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
 
@@ -59,7 +57,7 @@
 
 ### Uso do Jamboard do pacote G-SUITE
 
-<p style='text-align: justify;'>Para aqueles professores que desejam utilizar quadro, o ideal é o uso das telas com sensor para escrita, como os celulares, <i>tablets</i> ou uma mesa digitalizadora. A ferramenta de quadro do pacote G-SUITE é o Jamboard. O Jamboard permite o compartilhamento de arquivos, colocação de imagens e também a escrita de equações matemáticas. O canal da Priscilla Prueter [7] apresenta exemplos da criação de quadros pelo Jamboard.</p>
+<p style='text-align: justify;'>Para aqueles professores que desejam utilizar quadro, o ideal é o uso das telas com sensor para escrita, como os celulares, <i>tablets</i> ou uma mesa digitalizadora. A ferramenta de quadro do pacote G-SUITE é o Jamboard. O Jamboard permite o compartilhamento de arquivos, colocação de imagens e também a escrita de equações matemáticas. O canal da <code>Priscilla Prueter [7]</code> apresenta exemplos da criação de quadros pelo Jamboard.</p>
 
 <center> <iframe width="300" height="169" src="https://www.youtube.com/embed/sbsE2dqYK9M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
 
