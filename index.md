@@ -1,4 +1,8 @@
-# Ensino _online_ e o Pacote **G-SUITE**
+<center>
+          <h1>Ensino online</h1><br>
+          <h2>e o</h2><br>
+          <h1>Pacote G-SUITE</h1><br>
+</center>
 
 1. Ministrante: [Profa. Sylvia Regina Mesquita de Almeida](http://lattes.cnpq.br/1855764480221018)  
 2. Apoio: [Prof. Wanderlei Malaquias Pereira Junior](http://lattes.cnpq.br/2268506213083114) e [Luiz Rodrigues Niz](https://www.linkedin.com/in/luiz-rodrigues-niz-917828119/)
