@@ -5,7 +5,7 @@
 
 <p style='text-align: justify;'>Você se inscreveu no Minicurso <b>Ensino <i>online</i> e o Pacote G-SUITE</b>. Esse minicurso tem como objetivo apresentar as possibilidades de uso do pacote G-SUITE da Google no ensino remoto. Antes de começarmos recomendamos que você instale o navegador <a href="https://www.google.com/intl/pt-BR/chrome/">Google Chrome </a>.</p>
 
-<p style='text-align: justify;'>Nesse conteúdo <i>online</i> o participante poderá ter mais detalhes sobre as ferramentas informadas pelo ministrante. O material apresenta uma série de explicações e vídeos de domínio público (plataforma YouTube). As referências de todos os vídeos e imagens utilizadas estão descritos na aba de referências.</p> 
+<p style='text-align: justify;'>Nesse conteúdo <i>online</i> o participante poderá ter mais detalhes sobre as ferramentas informadas pelo ministrante. O material apresenta uma série de explicações e vídeos de domínio público (plataforma YouTube). As referências de todos os vídeos e imagens utilizadas estão descritos na aba de <a href="#referencias">referências</a>.</p> 
 
 ### Criação do e-mail institucional ou uso de uma conta Google
 
@@ -68,6 +68,7 @@
 <center> <iframe width="300" height="169" src="https://www.youtube.com/embed/v_vEXrhYvoU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
 
 
+<div id="referencias"></div>
 
 ### Referências
 
