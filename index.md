@@ -51,9 +51,9 @@
 
 <p style='text-align: justify;'>Antes de utilizar o Google Meet não se esqueça de testar microfone e câmera conforme recomendado nos vídeos, para que no momento da aula você não seja pego de surpresa!!!</p>
 
-### Um pouco sobre o modelo de apresentação em Power Point
+### Um pouco sobre o modelo de apresentações
 
-<p style='text-align: justify;'>Para aqueles que vão utilizar o Microsoft Power Point como recurso de apresentação vão algumas dicas para elaboração dos slides:</p>
+<p style='text-align: justify;'>Para aqueles que vão utilizar o apresentações como recurso de aula vão algumas dicas para elaboração dos slides:</p>
 
 1. Para um melhor aproveitamento do espaço em tela utilize o tamanho de slide **_Widescreen-16:9_** (aba _Design_) pois esse modelo permite a utilziação maximizada em celulares e _tablets_;
 2. A apresentação não pode ser muito carregada isso poderá deixar o discente "perdido" no momento da exposição, opte por uma configuração mais minimalista;
