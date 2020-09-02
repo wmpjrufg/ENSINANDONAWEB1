@@ -55,7 +55,7 @@
 1. Para um melhor aproveitamento do espaço em tela utilize o tamanho de slide **_Widescreen-16:9_** (aba _Design_) pois esse modelo permite a utilziação maximizada em celulares e _tablets_;
 2. A apresentação não pode ser muito carregada isso poderá deixar o discente "perdido" no momento da exposição;
 3. A combinações de cores é muito importante no recurso da apresentação portanto sugerimos a utilização de [padrões de cores com a ferramenta _*adobe color*_](https://color.adobe.com/pt/create/color-wheel);
-4. Caso necessite figuras ou imagens diversos sites disponibilizam isso de forma gratuita como por exemplo: [__Flaticon__](https://www.flaticon.com), [__Unplash__](https://unsplash.com) e o site [__Freepik__](https://br.freepik.com). Não se esqueça de referenciar todo o conteúdo utilizado.
+4. Caso necessite figuras ou imagens diversos sites disponibilizam isso de forma gratuita como por exemplo: [__Flaticon__](https://www.flaticon.com), [__Unplash__](https://unsplash.com) e [__Freepik__](https://br.freepik.com). Não se esqueça de referenciar todo o conteúdo utilizado.
 
 ### Uso do Jamboard do pacote G-SUITE
 
