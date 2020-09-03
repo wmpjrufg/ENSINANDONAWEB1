@@ -15,7 +15,7 @@
 
 <p style='text-align: justify;'>Para o uso de todas as ferramentas do Pacote G Suite é necessário que professores e alunos estejam utilizando um login do Google, ou seja, um login com extensão <code>@gmail.com</code>. Para criar uma conta basta clicar <a href="https://accounts.google.com/signup/v2/webcreateaccount?flowName=GlifWebSignIn&flowEntry=SignUp">aqui</a>. Outra opção é usar o e-mail institucional que já contenha o pacote G Suite. Um exemplo de criação do e-mail institucional é apresentado pelo canal <code>UFG Oficial [1]</code>.</p>
 
-https://www.youtube.com/embed/1himTC7BNTE
+[1](https://www.youtube.com/embed/1himTC7BNTE)
 
 ### Uso do calendário do pacote G Suite
 
