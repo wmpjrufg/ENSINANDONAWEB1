@@ -9,13 +9,13 @@
 
 <p style='text-align: justify;'>Você se inscreveu no Minicurso <b>Ensino <i>online</i> e o Pacote G Suite</b>. Esse minicurso tem como objetivo apresentar as funcionalidades do pacote G Suite do Google no ensino remoto. Antes de começarmos recomendamos que você instale o navegador <a href="https://www.google.com/intl/pt-BR/chrome/">Google Chrome</a>.</p>
 
-<p style='text-align: justify;'>Nesse conteúdo <i>online</i> o participante poderá ter mais detalhes sobre as ferramentas informadas pelo ministrante. O material apresenta uma série de explicações e vídeos para auxiliar a compreender as ferramenteas. As referências de todos os vídeos e imagens utilizadas estão descritos na aba de <a href="#referencias">referências</a>.</p> 
+<p style='text-align: justify;'>Nesse conteúdo <i>online</i> o participante poderá ter mais detalhes sobre as ferramentas informadas pelo ministrante. O material apresenta uma série de explicações e vídeos para auxiliar a compreender as ferramentas. As referências de todos os vídeos e imagens utilizadas estão descritos na aba de <a href="#referencias">referências</a>.</p> 
 
 ### Criação do e-mail institucional ou uso de uma conta Google
 
 <p style='text-align: justify;'>Para o uso de todas as ferramentas do Pacote G Suite é necessário que professores e alunos estejam utilizando um login do Google, ou seja, um login com extensão <code>@gmail.com</code>. Para criar uma conta basta clicar <a href="https://accounts.google.com/signup/v2/webcreateaccount?flowName=GlifWebSignIn&flowEntry=SignUp">aqui</a>. Outra opção é usar o e-mail institucional que já contenha o pacote G Suite. Um exemplo de criação do e-mail institucional é apresentado pelo canal <code>UFG Oficial [1]</code>.</p>
 
-<center> <iframe width="300" height="169" src="https://www.youtube.com/embed/1himTC7BNTE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
+https://www.youtube.com/embed/1himTC7BNTE
 
 ### Uso do calendário do pacote G Suite
 
