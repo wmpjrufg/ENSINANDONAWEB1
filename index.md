@@ -13,7 +13,7 @@
 
 ### Criação do e-mail institucional ou uso de uma conta Google
 
-<p style='text-align: justify;'>Para o uso de todas as ferramentas do Pacote G Suite é necessário que professores e alunos estejam utilizando um login do Google, ou seja, um login com extensão <code>@gmail.com</code>. Para criar uma conta basta clicar <a href="https://accounts.google.com/signup/v2/webcreateaccount?flowName=GlifWebSignIn&flowEntry=SignUp">aqui</a>. Outra opção é usar o e-mail institucional que já contenha o pacote G Suite. Um exemplo de criação do e-mail institucional é apresentado pelo canal <a href="https://www.youtube.com/embed/1himTC7BNTE">UFG Oficial [1]</a>.</p>
+<p style='text-align: justify;'>Para o uso de todas as ferramentas do Pacote G Suite é necessário que professores e alunos estejam utilizando um login do Google, ou seja, um login com extensão <code>@gmail.com</code>. Para criar uma conta basta clicar <a href="https://accounts.google.com/signup/v2/webcreateaccount?flowName=GlifWebSignIn&flowEntry=SignUp">aqui</a>. Outra opção é usar o e-mail institucional que já contenha o pacote G Suite. Um exemplo de criação do e-mail institucional é apresentado pelo canal <a href="https://www.youtube.com/watch?v=1himTC7BNTE&feature=emb_title">UFG Oficial [1]</a>.</p>
 
 ### Uso do calendário do pacote G Suite
 
@@ -21,25 +21,19 @@
 
 <img src="01.jpg">
 
-<p style='text-align: justify;'>Para mostrar um pouco do funcionamento dessa plataforma segue o conteúdo do canal  <a href="https://www.youtube.com/embed/bKeqCNvftTI">GetEdu [2]</a>:</p>
+<p style='text-align: justify;'>Para mostrar um pouco do funcionamento dessa plataforma segue o conteúdo do canal  <a href="https://www.youtube.com/watch?v=bKeqCNvftTI&feature=emb_title">GetEdu [2]</a>:</p>
 
 <p style='text-align: justify;'>Em caso de utilização de outra plataforma de gravação, como por exemplo o <i>software</i> gratuito <a href="https://atube-catcher.br.uptodown.com/windows"><i>aTube Catcher</i></a>, o vídeo da gravação poderá ser anexado na reunião do calendário e portanto essa filmagem ficará disponível para que os discentes tenham acesso a qualquer momento.</p>
 
-<p style='text-align: justify;'>Para quem deseja saber como usar a ferramenta <i>aTube Catcher</i> para gravação da aula veja o conteúdo do canal <a href="https://www.youtube.com/embed/OE7Hrt0tAew">EducaTICs [3]</a>.</p>
+<p style='text-align: justify;'>Para quem deseja saber como usar a ferramenta <i>aTube Catcher</i> para gravação da aula veja o conteúdo do canal <a href="https://www.youtube.com/watch?v=OE7Hrt0tAew&feature=emb_title">EducaTICs [3]</a>.</p>
 
 ### Uso do Google Meet do pacote G-SUITE
 
 <p style='text-align: justify;'>O Google Meet é o ambiente de reunião virtual do Google. Nesse ambiente poderão ser ministradas as aulas síncronas com uma capacidade total de 250 participantes, tendo em vista que essa sala poderá ser criada pelo professor da disciplina. O link da sala é um caminho que poderá ser digitado no navegador (recomendado o uso do navegador Google Chrome). O modelo do <i>link</i> segue o seguinte formato: <code>https://meet.google.com/aaa-bbbb-ccc</code>.</p>
 
-<p style='text-align: justify;'>O sistema para criação de reuniões é planejado de forma que somente as pessoas com o link podem pedir acesso para participação e somente quem criar a reunião poderá liberar o acesso. É possível a criar reuniões pelo Google Meet conforme no conteúdo apresentado pelo canal do <a href="https://www.youtube.com/embed/gW-ncVx3G8I">IEP3 da Unesp [4]<\a>:</p>
+<p style='text-align: justify;'>O sistema para criação de reuniões é planejado de forma que somente as pessoas com o link podem pedir acesso para participação e somente quem criar a reunião poderá liberar o acesso. É possível a criar reuniões pelo Google Meet conforme no conteúdo apresentado pelo canal do <a href="https://www.youtube.com/watch?v=gW-ncVx3G8I&feature=emb_title">IEP3 da Unesp [4]<\a>:</p>
 
-<p style='text-align: justify;'>Após a criação e disponibilização da sala o professor poderá acessar e liberar o acesso de seus alunos, então o conteúdo poderá ser ministrado com a utilização de recursos de compartilhamento de tela. Abaixo alguns conteúdos do canal <a>Curso Rápido [5,6]</a> que demonstra a configuração e utilização do Google Meet.</p>
-
-<center> <iframe width="300" height="169" src="https://www.youtube.com/embed/I50qnfMSaH4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
-
-<br>
-
-<center> <iframe width="300" height="169" src="https://www.youtube.com/embed/QRyA2uaM2hA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
+<p style='text-align: justify;'>Após a criação e disponibilização da sala o professor poderá acessar e liberar o acesso de seus alunos, então o conteúdo poderá ser ministrado com a utilização de recursos de compartilhamento de tela. Abaixo alguns conteúdos do canal <a href="https://www.youtube.com/channel/UCDt0IofTAp14ARWmV9oOglw">Curso Rápido [5,6]</a> que demonstra a <a href="https://www.youtube.com/watch?v=QRyA2uaM2hA">configuração</a> e <a href="https://www.youtube.com/watch?v=I50qnfMSaH4">utilização</a> do Google Meet.</p>
 
 <p style='text-align: justify;'>Antes de utilizar o Google Meet não se esqueça de testar microfone e câmera conforme recomendado nos vídeos, para que no momento da aula você não seja pego de surpresa!!!</p>
 
@@ -54,15 +48,12 @@
 
 ### Uso do Jamboard do pacote G Suite
 
-<p style='text-align: justify;'>Para aqueles professores que desejam utilizar um quadro, o ideal é o uso das telas com sensor para escrita, como os celulares, <i>tablets</i> ou uma mesa digitalizadora ligada ao computador. A ferramenta de quadro do pacote G Suite é chamada de Jamboard. Esta aplicação permite o compartilhamento de arquivos, inserção de imagens e também escrita de equações matemáticas. O canal da <code>Priscilla Prueter [7]</code> apresenta exemplos da criação de quadros pelo Jamboard.</p>
+<p style='text-align: justify;'>Para aqueles professores que desejam utilizar um quadro, o ideal é o uso das telas com sensor para escrita, como os celulares, <i>tablets</i> ou uma mesa digitalizadora ligada ao computador. A ferramenta de quadro do pacote G Suite é chamada de Jamboard. Esta aplicação permite o compartilhamento de arquivos, inserção de imagens e também escrita de equações matemáticas. O canal da <a href="https://www.youtube.com/watch?v=sbsE2dqYK9M&feature=emb_title">Priscilla Prueter [7]</a> apresenta exemplos da criação de quadros pelo Jamboard.</p>
 
-<center> <iframe width="300" height="169" src="https://www.youtube.com/embed/sbsE2dqYK9M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
 
 ### Uso do Classroom do pacote G Suite
 
-<p style='text-align: justify;'>O <i>Classroom</i> é um pacote que concatena todas as possibilidades citadas anteriormente. O ambiente <i>Classroom</i> permite a criação virtual de uma sala de aula. Esse sistema permite a postagem de conteúdo, atividades com pontuação e outras diversas funcionalidades que um professor pode fazer em sala. Para uma visão geral da ferramenta segue os vídeos do canal <code>Professus21 [8]</code>.</p>
-
-<center> <iframe width="300" height="169" src="https://www.youtube.com/embed/v_vEXrhYvoU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
+<p style='text-align: justify;'>O <i>Classroom</i> é um pacote que concatena todas as possibilidades citadas anteriormente. O ambiente <i>Classroom</i> permite a criação virtual de uma sala de aula. Esse sistema permite a postagem de conteúdo, atividades com pontuação e outras diversas funcionalidades que um professor pode fazer em sala. Para uma visão geral da ferramenta segue os vídeos do canal <a href="https://www.youtube.com/watch?v=v_vEXrhYvoU&feature=emb_title">Professus21 [8]</a>.</p>
 
 <div id="referencias"></div>
 
