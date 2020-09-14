@@ -10,7 +10,7 @@
 
 <p style='text-align: justify;'>Você se inscreveu no Minicurso <b>Ensino <i>online</i> e o Pacote G Suite</b>. Esse minicurso tem como objetivo apresentar as funcionalidades do pacote G Suite do Google no ensino remoto. Antes de começarmos recomendamos que você instale o navegador <a href="https://www.google.com/intl/pt-BR/chrome/">Google Chrome</a>.</p>
 
-<p style='text-align: justify;'>Nesse conteúdo <i>online</i> o participante poderá ter mais detalhes sobre as ferramentas informadas pelo ministrante. O material apresenta uma série de explicações e vídeos para auxiliar a compreender as ferramentas. As referências de todos os vídeos e imagens utilizadas estão descritos na aba de <a href="#referencias">referências</a>. </p> 
+<p style='text-align: justify;'>Nesse conteúdo <i>online</i> o participante poderá ter mais detalhes sobre as ferramentas informadas pelo ministrante. O material apresenta uma série de explicações e vídeos para auxiliar a compreender as ferramentas. As referências de todos os vídeos e imagens utilizadas estão descritos na aba de <a href="#referencias">referências</a>. Salientamos aqui que esse material não tem fins lucrativos e tem como motivação publicizar as possibilidades que estas ferramentas possibilitam no tocante ao ensino remoto.</p> 
 
 <h3>Criação do e-mail institucional ou uso de uma conta Google</h3>
 
